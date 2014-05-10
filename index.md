@@ -41,14 +41,13 @@ Vielen Dank gilt dabei der Firma Amazon, welche diesen Kurs im Rahmen ihres Educ
 1. MapReduce nnd Hadoop: HDFS and Hadoop MapReduce Framework (3.1-3.6)
 1. MapReduce Patterns and Applikationen (3.41-3.43)
 1. YARN
-
 1. Big Table und HBase (3.3, 3.4, 3.39, 3.40)
 1. Hive, Pig und HCatalog (3.7-3.10)
 1. Hadoop Ecosystem: Distributionen und Tools (3.36, 3.37, 3.38)
 1. Hadoop 2.0: Yarn (3.4, 3.5)
 1. In-Memory Databases (3.20)
 1. Analytical Databases: Greenplum (3.31, 3.35)
-1. Stream Processing (Twitter Storm, Infosphere Streams) (3.24-3.26, 3.45)
+1. Stream Processing (Storm, Spark Streaming) (3.24-3.26, 3.45)
 1. CAP Theorem and Eventual Consistency (3.21-3.23)
 1. Fehlertoleranz in Verteilten Systemen: Quorum Protokolle, Apache Zookeeper (3.19, 3.27)
 1. Amazon und Big Data: Elastic Map Reduce, SimpleDB, DynamoDB (3.11, 3.16, 3.21)
@@ -63,13 +62,13 @@ Vielen Dank gilt dabei der Firma Amazon, welche diesen Kurs im Rahmen ihres Educ
 
 ## Material
 
-Weiterführende Materialien zur Veranstaltung finden Sie hier:
-
+Materials for this lecture will be published here.
+<!---
 * [Vorlesung](http://fara.cs.uni-potsdam.de/~luckow/ws2012/)
 
 * [Praktikum](./praktikum.html)
 
-
+-->
 
 ## Literature
 
