@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Überblick
+title: Overview
 tagline: 
 ---
 {% include JB/setup %}
 
 
-## Inhalte
+## Content
 
 Die Menge an Daten, die Unternehmen anfallen und verarbeitet werden müssen steigen ständig ([McKinsey Big Data
 Report](http://www.mckinsey.com/insights/mgi/research/technology_and_innovation/big_data_the_next_frontier_for_innovation)). Mit Big Data bezeichnet man
@@ -24,7 +24,7 @@ mehrere praktische Übungen unter Nutzung der Cloud Dienste von [Amazon Web Serv
 Vielen Dank gilt dabei der Firma Amazon, welche diesen Kurs im Rahmen ihres Education Programmes unterstützt.
 
 
-## Aktuelle Informationen
+## Announcements
 
 
 <ul class="posts">
@@ -34,12 +34,14 @@ Vielen Dank gilt dabei der Firma Amazon, welche diesen Kurs im Rahmen ihres Educ
 </ul>
 
 
-## Themen
+## Topics
 
-1. Einführung: Big Data und seine Anwendungen in der Wirtschaft und Wissenschaft (1.1-1.7)
+1. Introduction: Big Data and Applications in Science and Engineering (1.1-1.7)
 1. Open Data and Government (1.8-1.12)
-1. MapReduce und Hadoop: HDFS und Hadoop MapReduce Framework (3.1-3.6)
-1. MapReduce Patterns und Applikationen (3.41-3.43)
+1. MapReduce nnd Hadoop: HDFS and Hadoop MapReduce Framework (3.1-3.6)
+1. MapReduce Patterns and Applikationen (3.41-3.43)
+1. YARN
+
 1. Big Table und HBase (3.3, 3.4, 3.39, 3.40)
 1. Hive, Pig und HCatalog (3.7-3.10)
 1. Hadoop Ecosystem: Distributionen und Tools (3.36, 3.37, 3.38)
@@ -69,12 +71,12 @@ Weiterführende Materialien zur Veranstaltung finden Sie hier:
 
 
 
-## Literatur
+## Literature
 
-Bitte die folgenden Literaturempfehlungen als Startpunkt für eigene Recherchen wählen.
+Please use the following literature as starting point for your research.
 
 
-### 1. Einführung, Motivation und Open Daten
+### 1. Introduction and Motivation
 
 1. Tony Hey, Stewart Tansley, Kristin Tolle (Editors), The Fourth Paradigm, <http://research.microsoft.com/en-us/collaboration/fourthparadigm/>, 2009
 1. Stephen Wolfram: A New Kind of Science, <http://www.wolframscience.com/>, 2002
@@ -89,7 +91,7 @@ Bitte die folgenden Literaturempfehlungen als Startpunkt für eigene Recherchen 
 1. Alex Howard, Data for Public Good, <http://strata.oreilly.com/2012/02/data-public-good.html>, O'Reilly, 2012
 1. Jonathan Gray, Liliana Bounegru, Lucy Chambers (editors), The Data Journalism Handbook,  <http://datajournalismhandbook.org/>, 2012
 
-### 2. Cloud Computing
+### 2. Distributed and Cloud Computing
 1. Peter Mell and Tim Grance. The NIST Definition of Cloud Computing, <http://csrc.nist.gov/groups/SNS/cloud-computing/>
 1. Michael Armbrust, Armando Fox, Rean Griffith, Anthony D. Joseph, Randy H. Katz, Andrew Konwinski, Gunho Lee, David A. Patterson, Ariel Rabkin, Ion Stoica, and Matei Zaharia. Above the clouds: A Berkeley View of Cloud Computing. Technical Report University of Berkley, 2009, <http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf>
 1. S. Jha, D. Katz, A. Luckow, A. Merzky, K. Stamou, Understanding Scientific Applications for Cloud Environments, submitted to book on Cloud Computing, <http://www.cct.lsu.edu/~sjha/select_publications/cloud_book_chapter.pdf>
@@ -157,7 +159,7 @@ Jean-Michel Leon, Yawei Li, Alexander Lloyd, Vadim Yushprakh, Megastore: Providi
 1. Apache Drill, <http://www.slideshare.net/jasonfrantz/drill-bay-area-hug-20120919/13>
 1. Apache Flume, <http://flume.apache.org/>
 
-### 4. Machine Learning
+### 4. Data Analysis
 1. Apache Mahout, <http://mahout.apache.org>
 1. Sean Owen, Robin Anil, Ted Dunning, and Ellen Friedman, Mahout in Action, Manning, 2011
 1. Cloudera, Mahout, CDH3 and Recommendations, <http://www.cloudera.com/resource/hadoop-summit-2012-branchreduce-distributed-branch-and-bound-on-yarn-presentation-slides/>

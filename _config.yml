@@ -11,11 +11,11 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Big Data und Large Scale Systems
+title : Big Data: Infrastructure and Automotive Applications.
 tagline: Studiengang Master Wirtschaftsinformatik
 author :
   name : Andre Luckow
-  email : luckow@hm.edu
+  email : andreluckow@clemson.edu
   github : drelu
   twitter : drelu
   feedburner : n/a
