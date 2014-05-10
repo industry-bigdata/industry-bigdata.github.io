@@ -63,7 +63,9 @@ Vielen Dank gilt dabei der Firma Amazon, welche diesen Kurs im Rahmen ihres Educ
 ## Material
 
 Materials for this lecture will be published here.
+
 <!---
+
 * [Vorlesung](http://fara.cs.uni-potsdam.de/~luckow/ws2012/)
 
 * [Praktikum](./praktikum.html)
