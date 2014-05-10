@@ -66,10 +66,6 @@
       
     
   
-    
-      
-    
-  
 
 
 
@@ -126,14 +122,6 @@
       
       	
       	<li class="active"><a href="/pages.sv" class="active">Pages</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/praktikum.html">Praktikum</a></li>
       	
       
     
