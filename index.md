@@ -8,20 +8,17 @@ tagline:
 
 ## Content
 
-Die Menge an Daten, die Unternehmen anfallen und verarbeitet werden müssen steigen ständig ([McKinsey Big Data
-Report](http://www.mckinsey.com/insights/mgi/research/technology_and_innovation/big_data_the_next_frontier_for_innovation)). Mit Big Data bezeichnet man
-üblicherweise Daten, die mit herkömmlichen Mittel nicht oder nur schwer verarbeitet sind. Beispiele dafür sind: (i) klassische Unternehmensdaten (z.B.
-Kundendaten, Transaktionen), (ii) machinen-generierte Daten, wie z.B. Sensodaten, Web Service/Maschinen Logdateien,  und (iii) Social Media Daten.
-
-Dieses Modul hat das Ziel dem Studierenden einen Überblick über das Themengebiet daten-intensive Anwendungen 
-zu vermitteln. Ziel ist es sowohl  betriebswirtschaftliches Verständnis von daten-basierten Business-
-Modellen und Produkten, als auch technisches Verständnis von large-scale Systemen und Infrastrukturfür Big 
-Data, aufzubauen. Die Studierenden vertiefen ihre Informatik-Kenntnisse praxisorientiert und wird vertraut 
-gemacht mit Methoden, Techniken, Verfahren, Werkzeugen und Infrastrukturen für die Verarbeitung und Analyzse von (großen) Daten.
-
-Im Rahmen dieses Kurses wird von jedem studierenden ein Thema als Studienarbeit vertieft bearbeiten. Des Weiteren werden 
-mehrere praktische Übungen unter Nutzung der Cloud Dienste von [Amazon Web Services](http://aws.amazon.com) durchgeführt. 
-Vielen Dank gilt dabei der Firma Amazon, welche diesen Kurs im Rahmen ihres Education Programmes unterstützt.
+The ongoing data deluge, i.e. the generation of large volumes of data, driven by the increasing
+digitalization of society and industry, lead to a significant increase in demand for data storage,
+processing and analytics within several industrial domains. Enterprises are overwhelmed by the need to store
+large amounts of transactional and machine-generated data resulting from the customer, service and
+manufacturing processes. Examples of machine generated data are server logs as well as by sensor data that
+is generated in finer granularities and frequencies. Further, internal dataset are often enriched with web
+and open data from social media, blogs or other open data sources. The Internet of Things (IoT) will further
+blur the boundaries between physical and digital world causing an even further increase in the digital
+footprint of the world. In this course we will learn about Big Data applications and their requirements.
+Further, we will discuss the core infrastructure necessary to handle the large data volumes and analytical
+problems.
 
 
 ## Announcements
