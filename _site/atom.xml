@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Big Data und Large Scale Systems</title>
- <link href="http://drelu.github.com/bigdata//atom.xml" rel="self"/>
- <link href="http://drelu.github.com/bigdata/"/>
- <updated>2014-05-10T14:33:30-04:00</updated>
- <id>http://drelu.github.com/bigdata/</id>
+ <link href="http://industrial-bigdata.github.io/atom.xml" rel="self"/>
+ <link href="http://industrial-bigdata.github.io"/>
+ <updated>2014-05-10T14:37:11-04:00</updated>
+ <id>http://industrial-bigdata.github.io</id>
  <author>
    <name>Andre Luckow</name>
    <email>luckow@hm.edu</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Änderung Veranstaltungszeit am 18.01.2013: 14:15 - 17:30 Uhr</title>
-   <link href="http://drelu.github.com/bigdata//2013/01/11/aenderung-zeit"/>
+   <link href="http://industrial-bigdata.github.io/2013/01/11/aenderung-zeit"/>
    <updated>2013-01-11T00:00:00-05:00</updated>
-   <id>http://drelu.github.com/bigdata//2013/01/11/aenderung-zeit</id>
+   <id>http://industrial-bigdata.github.io/2013/01/11/aenderung-zeit</id>
    <content type="html">
 &lt;p&gt;Die Veranstaltung am 18.01.2013 findet von 14:15 bis 17:30 Uhr statt.&lt;/p&gt;
 </content>
@@ -24,9 +24,9 @@
  
  <entry>
    <title>Themen für Zusammenfassungen</title>
-   <link href="http://drelu.github.com/bigdata//2013/01/06/zusammenfassung"/>
+   <link href="http://industrial-bigdata.github.io/2013/01/06/zusammenfassung"/>
    <updated>2013-01-06T00:00:00-05:00</updated>
-   <id>http://drelu.github.com/bigdata//2013/01/06/zusammenfassung</id>
+   <id>http://industrial-bigdata.github.io/2013/01/06/zusammenfassung</id>
    <content type="html">
 &lt;p&gt;Themen für Zusammenfassungen am 25.01.2012:&lt;/p&gt;
 
@@ -98,9 +98,9 @@
  
  <entry>
    <title>Ausarbeitungen WS 2012/13 stehen bereit.</title>
-   <link href="http://drelu.github.com/bigdata//2012/12/22/ausarbeitungen"/>
+   <link href="http://industrial-bigdata.github.io/2012/12/22/ausarbeitungen"/>
    <updated>2012-12-22T00:00:00-05:00</updated>
-   <id>http://drelu.github.com/bigdata//2012/12/22/ausarbeitungen</id>
+   <id>http://industrial-bigdata.github.io/2012/12/22/ausarbeitungen</id>
    <content type="html">
 &lt;p&gt;Die Ausarbeitungen können  &lt;a href=&quot;http://fara.cs.uni-potsdam.de/~luckow/ws2012/ausarbeitungen/&quot;&gt;hier&lt;/a&gt; heruntergeladen werden. Die Vergabe der Themen für die finale Veranstaltung erfolgt am 11.01.2012.&lt;/p&gt;
 </content>
@@ -108,9 +108,9 @@
  
  <entry>
    <title>Änderung Übung/Vorlesung 07.12.</title>
-   <link href="http://drelu.github.com/bigdata//2012/12/04/nderung-bungvorlesung-0712"/>
+   <link href="http://industrial-bigdata.github.io/2012/12/04/nderung-bungvorlesung-0712"/>
    <updated>2012-12-04T00:00:00-05:00</updated>
-   <id>http://drelu.github.com/bigdata//2012/12/04/nderung-bungvorlesung-0712</id>
+   <id>http://industrial-bigdata.github.io/2012/12/04/nderung-bungvorlesung-0712</id>
    <content type="html">
 &lt;p&gt;Am 07.12. werden Vorlesung und Übung getauscht. Der erste Vortrag beginnt um 16:45 Uhr.&lt;/p&gt;
 </content>
@@ -118,9 +118,9 @@
  
  <entry>
    <title>Terminplan und Themen</title>
-   <link href="http://drelu.github.com/bigdata//2012/10/06/themenvergabe"/>
+   <link href="http://industrial-bigdata.github.io/2012/10/06/themenvergabe"/>
    <updated>2012-10-06T00:00:00-04:00</updated>
-   <id>http://drelu.github.com/bigdata//2012/10/06/themenvergabe</id>
+   <id>http://industrial-bigdata.github.io/2012/10/06/themenvergabe</id>
    <content type="html">
 &lt;p&gt;Anbei der vorläufige Terminplan mit den vergebenen Themen. Bitte beachten Sie, dass am 02.11., 16.11, 23.11 und 30.11.2012 die 
 Veranstaltung um 13:30 Uhr beginnt.&lt;/p&gt;
@@ -157,9 +157,9 @@ Filesystem Evolution: GFS, Megastore und Spanner    &lt;/td&gt;&lt;/tr&gt;
  
  <entry>
    <title>Willkommen zum FWP Fach: Big Data und Large Scale Systeme</title>
-   <link href="http://drelu.github.com/bigdata//2012/07/08/new-post"/>
+   <link href="http://industrial-bigdata.github.io/2012/07/08/new-post"/>
    <updated>2012-07-08T00:00:00-04:00</updated>
-   <id>http://drelu.github.com/bigdata//2012/07/08/new-post</id>
+   <id>http://industrial-bigdata.github.io/2012/07/08/new-post</id>
    <content type="html">
 &lt;p&gt;Die erste Vorlesung findet am Freitag, den 05.10.2012, um 15:15 Uhr statt.&lt;/p&gt;
 </content>
