@@ -174,7 +174,7 @@ Recommendations Item-to-Item Collaborative Filtering, IEEE Computer Society,
 1. Test, Learn, Adapt: Developing Public Policy with Randomised Controlled Trials: <http://www.pacts.org.uk/docs/pdf-bank/TLA-1906126.pdf>
 1. Jimmy Lin and Chris Dyer, Data-Intensive Text Processing with MapReduce, Morgan & Claypool Publishers, 2010, <http://mapreduce.cc/>
 
-### 5. Visualisierungen
+### 5. Visualization
 1. Robert Kabacoff, R in Action, Manning, 2011
 1. Hadley Wickham, ggplot2 - Elegant Graphics for Data Analysis, 2009
 1. D3: Data-driven Documents, <http://d3js.org/>
