@@ -10,9 +10,9 @@ tagline:
 
 The ongoing data deluge, i.e. the generation of large volumes of data, driven by the increasing
 digitalization of society and industry, lead to a significant increase in demand for data storage,
-processing and analytics within several industrial domains (see ([McKinsey Big Data
+processing and analytics within several industrial domains (see [McKinsey Big Data
 Report](http://www.mckinsey.com/insights/mgi/research/technology_and_innovation/big_data_the_next_frontier_fo
-r_innovation))). Enterprises are overwhelmed by the need to store large amounts of transactional and
+r_innovation)). Enterprises are overwhelmed by the need to store large amounts of transactional and
 machine-generated data resulting from the customer, service and manufacturing processes. Examples of machine
 generated data are server logs as well as by sensor data that is generated in finer granularities and
 frequencies. Further, internal dataset are often enriched with web and open data from social media, blogs or
