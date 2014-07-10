@@ -9,7 +9,7 @@ tagline:
 ## Content
 
 The ongoing data deluge, i.e. the generation of large volumes of data, driven by the increasing
-digitalization of society and industry, lead to a significant increase in demand for data storage,
+digitalization of society and industry, leads to a significant increase in demand for data storage,
 processing and analytics within several industrial domains (see [McKinsey Big Data
 Report](http://www.mckinsey.com/insights/mgi/research/technology_and_innovation/big_data_the_next_frontier_fo
 r_innovation)). Enterprises are overwhelmed by the need to store large amounts of transactional and
@@ -36,9 +36,9 @@ necessary to handle the large data volumes and analytical problems.
 
 1. Introduction: Big Data and Applications in Science and Engineering (1.1-1.7)
 1. Open Data and Government (1.8-1.12)
-1. MapReduce nnd Hadoop: HDFS and Hadoop MapReduce Framework (3.1-3.6)
-1. MapReduce Patterns and Applikationen (3.41-3.43)
-1. YARN
+1. MapReduce and Hadoop: HDFS and Hadoop MapReduce Framework (3.1-3.6)
+1. MapReduce Patterns and Applications(3.41-3.43)
+1. Cluster Resource Management: YARN, Mesos and OMEGA
 1. Big Table und HBase (3.3, 3.4, 3.39, 3.40)
 1. Hive, Pig und HCatalog (3.7-3.10)
 1. Hadoop Ecosystem: Distributionen und Tools (3.36, 3.37, 3.38)
