@@ -8,18 +8,23 @@ tagline:
 
 ## Content
 
-The ongoing data deluge, i.e. the generation of large volumes of data, driven by the increasing
-digitalization of society and industry, leads to a significant increase in demand for data storage,
-processing and analytics within several industrial domains (see [McKinsey Big Data
-Report](http://www.mckinsey.com/insights/mgi/research/technology_and_innovation/big_data_the_next_frontier_fo
-r_innovation)). Enterprises are overwhelmed by the need to store large amounts of transactional and
-machine-generated data resulting from the customer, service and manufacturing processes. Examples of machine
-generated data are server logs as well as by sensor data that is generated in finer granularities and
-frequencies. Further, internal dataset are often enriched with web and open data from social media, blogs or
-other open data sources. The Internet of Things (IoT) will further blur the boundaries between physical and
-digital world causing an even further increase in the digital footprint of the world. In this course we will
-learn about Big Data applications and their requirements. Further, we will discuss the core infrastructure
-necessary to handle the large data volumes and analytical problems.
+The ongoing data deluge, i.e. the generation of large volumes of data, driven
+by the increasing digitalization of society and industry, leads to a
+significant increase in demand for data storage, processing and analytics
+within several industrial domains (see [McKinsey Big Data
+Report](http://www.mckinsey.com/insights/mgi/research/technology_and_innovation/
+big_data_the_next_frontier_fo r_innovation)). Enterprises are overwhelmed by
+the need to store large amounts of transactional and machine-generated data
+resulting from the customer, service and manufacturing processes. Examples of
+machine-generated data are server logs as well as sensor data that is generated
+in finer granularities and frequencies. Further, internal dataset are often
+enriched with web and open data from social media, blogs or other open data
+sources. The Internet of Things (IoT) will further blur the boundaries between
+the physical and the digital world causing an even further increase in the
+digital footprint of the world. In this course we will learn about Big Data
+applications and their requirements. Further, we will discuss the core
+infrastructure necessary to handle the large data volumes and analytical
+problems.
 
 
 ## Announcements
