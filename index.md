@@ -193,7 +193,7 @@ Recommendations Item-to-Item Collaborative Filtering, IEEE Computer Society,
 
 ## Grading
 
-This is a pass/fail course.To pass student must successfully complete and 
+This is a pass/fail course. To pass student must successfully complete and 
 present a in-class project.
 
 ## Policies
