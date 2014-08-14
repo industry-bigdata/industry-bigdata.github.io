@@ -79,7 +79,7 @@ Materials for this lecture will be published here.
 
 -->
 
-## References Reading Material
+## Reading Material
 
 Please use the following literature as starting point for your research.
 
