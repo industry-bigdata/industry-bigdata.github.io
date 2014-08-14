@@ -191,12 +191,12 @@ Recommendations Item-to-Item Collaborative Filtering, IEEE Computer Society,
 1. Julie Steele, Noah Iliinsky, Beautiful Visualizations, O'Reilly, 2010
 
 
-# Grading
+## Grading
 
 This is a pass/fail course.To pass student must successfully complete and 
 present a in-class project.
 
-# Policies
+## Policies
 
 ***Late Instructor***
 Your instructor will make every effort to be in class on time, or to inform you
@@ -229,6 +229,6 @@ OR
 Any assignment that does not include a collaboration statement will not receive a grade until the statement is provided.
 
 
-# Acknowledgements
+## Acknowledgements
 
 ![Amazon Web Services](http://awsmedia.s3.amazonaws.com/AWS_Logo_PoweredBy_127px.png)
