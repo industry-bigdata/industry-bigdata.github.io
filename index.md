@@ -37,30 +37,34 @@ problems.
 </ul>
 
 
+## Time
+
+The course will be held bi-weekly on Mondays. The first class will take place on August 25 at 04:30 pm.
+
+
 ## Topics
 
-1. Introduction: Big Data and Applications in Science and Engineering (1.1-1.7)
-1. Open Data and Government (1.8-1.12)
-1. MapReduce and Hadoop: HDFS and Hadoop MapReduce Framework (3.1-3.6)
-1. MapReduce Patterns and Applications(3.41-3.43)
+This class will cover selected topics from the list below:
+
+1. Introduction: Big Data and Applications in Science and Engineering 
+1. Open Data and Government 
+1. MapReduce and Hadoop: HDFS and Hadoop MapReduce Framework 
+1. MapReduce Patterns and Applications
 1. Cluster Resource Management: YARN, Mesos and OMEGA
-1. Big Table und HBase (3.3, 3.4, 3.39, 3.40)
-1. Hive, Pig und HCatalog (3.7-3.10)
-1. Hadoop Ecosystem: Distributionen und Tools (3.36, 3.37, 3.38)
-1. Hadoop 2.0: Yarn (3.4, 3.5)
-1. In-Memory Databases (3.20)
-1. Analytical Databases: Greenplum (3.31, 3.35)
-1. Stream Processing (Storm, Spark Streaming) (3.24-3.26, 3.45)
-1. CAP Theorem and Eventual Consistency (3.21-3.23)
-1. Fehlertoleranz in Verteilten Systemen: Quorum Protokolle, Apache Zookeeper (3.19, 3.27)
-1. Amazon und Big Data: Elastic Map Reduce, SimpleDB, DynamoDB (3.11, 3.16, 3.21)
-1. Google Infrastruktur: Pregel und Dremel (3.18, 3.30, 3.44)
-1. Google Filesystem Evolution: GFS, Megastore und Spanner (3.2, 3.17, 3.29)
-1. Google & Big Data: Google App Engine Map Reduce, Big Query, Prediction API (3.6, 3.18, 3.32, 3.33, 3.34)
-1. Einführung Machine Learning (4.9, 4.10)
-1. Machine Learning mit Apache Mahout (4.1,4.2)
-1. Natural Language Processing (4.6, 4.7)
-1. Datenvisualisierungen (5.1-5.5, 1.12)
+1. NoSQL and Hadoop: Big Table and HBase 
+1. Hive, Pig and HCatalog 
+1. Hadoop Ecosystem: Distributions and Tools 
+1. In-Memory Databases and Analytical Databases: Greenplum, Teradata 
+1. Stream Processing (Storm, Spark Streaming) 
+1. CAP Theorem and Eventual Consistency 
+1. Fehlertoleranz in Verteilten Systemen: Quorum Protokolle, Apache Zookeeper 
+1. Amazon and Big Data: Elastic Map Reduce, SimpleDB, DynamoDB 
+1. Google Infrastructure: Pregel and Dremel 
+1. Google Filesystem Evolution: GFS, Megastore and Spanner 
+1. Google & Big Data: Google App Engine Map Reduce, Big Query, Prediction API 
+1. Advanced Analytics and Machine Learning (Apache Mahout, MLLib) 
+1. Natural Language Processing 
+1. Visualizations 
 
 
 ## Material
@@ -75,7 +79,7 @@ Materials for this lecture will be published here.
 
 -->
 
-## Literature
+## References Reading Material
 
 Please use the following literature as starting point for your research.
 
@@ -163,7 +167,7 @@ Jean-Michel Leon, Yawei Li, Alexander Lloyd, Vadim Yushprakh, Megastore: Providi
 1. Apache Drill, <http://www.slideshare.net/jasonfrantz/drill-bay-area-hug-20120919/13>
 1. Apache Flume, <http://flume.apache.org/>
 
-### 4. Data Analysis
+### 4. Data Analytics
 1. Apache Mahout, <http://mahout.apache.org>
 1. Sean Owen, Robin Anil, Ted Dunning, and Ellen Friedman, Mahout in Action, Manning, 2011
 1. Cloudera, Mahout, CDH3 and Recommendations, <http://www.cloudera.com/resource/hadoop-summit-2012-branchreduce-distributed-branch-and-bound-on-yarn-presentation-slides/>
@@ -186,6 +190,43 @@ Recommendations Item-to-Item Collaborative Filtering, IEEE Computer Society,
 1. Jeff Hammerbach, Toby Segaran, Beautiful Data, O'Reilly, 2009
 1. Julie Steele, Noah Iliinsky, Beautiful Visualizations, O'Reilly, 2010
 
+
+# Grading
+
+This is a pass/fail course.To pass student must successfully complete and 
+present a in-class project.
+
+# Policies
+
+***Late Instructor***
+Your instructor will make every effort to be in class on time, or to inform you
+of any delay or cancellation. In the unusual event that he should not arrive in
+class or send word by 15 minutes from the class start time, the class is
+officially cancelled.
+
+***Attendance Policy***
+Attendance will not be graded, but we will take note of who attends, including occasionally circulating a sign-up sheet during class. If you miss a class, you
+are responsible for obtaining lecture notes, handouts, and homework assignments
+from fellow students. In the event that you are truly sick with a contagious
+condition such as the flu, please do not expose your fellow students and
+instructors to such illnesses. 
+
+***Academic Integrity***
+“As members of the Clemson University community, we have inherited Thomas Green Clemson’s vision of this institution as a “high seminary of learning.” Fundamental to this vision is a mutual commitment to truthfulness, honor, and responsibility, without which we cannot earn the trust and respect of others. Furthermore, we recognize that academic dishonesty detracts from the value of a Clemson degree. Therefore, we shall not tolerate lying, cheating, or stealing in any form.”
+
+The instructor takes academic integrity extremely seriously and expects students to do so too. Scientific progress requires scientists to be honest in reporting their methods and results, the extent of their own contributions, and to accurately represent the research and ideas of other scientists. Failures of academic integrity such as plagiarism (i.e., representing the ideas or words of another as if they are your own) are always an insult to instructors and other students. Cheating, plagiarism, and all other academic integrity violations will handle according to the University policies regarding classroom expectations and academic integrity violation, as specified at http://www.clemson.edu/academics/academic-integrity/
+
+***Collaboration Policy*** 
+In and out of class assignments are opportunities for learning and discovery. Collaboration between students on homework assignments in this class is permitted. Collaboration includes students working together to gain an understanding of course concepts, active discussions with the instructor and other people to learn about course material, and other activities in which a student is actively seeking to learn and understand the topics covered in the course. I do expect that you understand and can explain any homework solution that you submit, no matter how you worked on it. 
+
+As has always been the case, however, plagiarism is not allowed. Taking assignments from other classmates or downloading completed assignments from websites is not allowed. These are activities that are simply meant to earn a score, not understand the course material. If you collaborate with other students in class or use sources other than those provided for everyone in the course (e.g., instructor, recommended textbook, the course web site, or the lectures) to help yourself learn and understand, then you must give appropriate credit to those collaborators and/or sources. As long as you acknowledge the collaboration that occurred, your grade will not be affected nor will you be charged with academic misconduct. On the other hand, a failure to acknowledge collaborations or give appropriate credit to sources of help (other than course materials or personnel as noted above) will be treated as plagiarism. 
+
+***Contributorship Statement*** 
+To ensure that you acknowledge contributions, collaborations and sources, you are required to include a contributorship statement at the beginning of every assignment that you submit. The statement should say: 
+"I worked on this assignment alone, using only course materials." 
+OR 
+"I worked on this assignment with [give the names of the people you worked with]. My role in completing the assignment was [provide description of all your contributions], while [provide names of other collaborators] role in completing the assignment was [provide a description of their contributions]. We consulted related material that can be found at [cite any other materials not provided as course materials]." 
+Any assignment that does not include a collaboration statement will not receive a grade until the statement is provided.
 
 
 # Acknowledgements
