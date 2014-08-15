@@ -39,7 +39,7 @@ problems.
 
 ## Time
 
-The course will be held bi-weekly on Mondays. The first class will take place on August 25 at 04:30 pm.
+The course will be held on Mondays. The first class will take place on August 25 at 04:30 pm.
 
 
 ## Topics
@@ -193,8 +193,7 @@ Recommendations Item-to-Item Collaborative Filtering, IEEE Computer Society,
 
 ## Grading
 
-This is a pass/fail course. To pass student must successfully complete and 
-present a in-class project.
+This is a pass/fail course. Students will be able to enroll in the course for 1 to 3 credit hours.  
 
 ## Policies
 
