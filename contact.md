@@ -11,6 +11,7 @@ group: navigation
 You can contact us:
 
 Dr. Amy Apon, <aapon@clemson.edu>
+
 Dr. Andre Luckow, <andreluckow@clemson.edu>
 
 
