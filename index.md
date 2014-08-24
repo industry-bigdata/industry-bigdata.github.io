@@ -117,6 +117,8 @@ Please use the following literature as starting point for your research.
 1. Jeffrey Dean and Sanjay Ghemawat. MapReduce: Simplified Data Processing on Large Clusters. In OSDI’04: Proceedings of the 6th conference on Symposium on Operating Systems Design & Implementation, pages 137–150, Berkeley, CA, USA, 2004. USENIX  Association.
 1. Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung. The Google File System. SIGOPS Oper. Syst. Rev., 37(5):29–43, 2003.
 1. Fay Chang, Jeffrey Dean, Sanjay Ghemawat, Wilson C. Hsieh, Deborah A. Wallach, Mike Burrows, Tushar Chandra, Andrew Fikes, and Robert E. Gruber. Bigtable: a distributed storage system for structured data. In OSDI ’06: Proceedings of the 7th USENIX Symposium on Operating Systems Design and Implementation, pages 15–15, Berkeley, CA, USA, 2006. USENIX Association
+1. Shantenu Jha, Judy Qui, Andre Luckow, Geoffrey Fox, A Tale of Two Data-Intensive Paradigms: Applications, Abstractions, and Architectures, <http://arxiv.org/abs/1403.1528>, 2014
+1. Eric Baldeschwieler et al., Apache Hadoop YARN: Yet Another Resource Negotiator, <https://www.cs.cmu.edu/~garth/15719/papers/yarn.pdf>
 1. Tom White, Hadoop: The Definitive Guide, 3rd Edition, <http://shop.oreilly.com/product/0636920021773.do>
 1. Hadoop: Open Source Implementation of MapReduce. <http://hadoop.apache.org/>
 1. Hadoop File System. <http://hadoop.apache.org/common/docs/current/hdfs_design.html>
