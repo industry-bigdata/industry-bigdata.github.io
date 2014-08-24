@@ -46,25 +46,20 @@ The course will be held on Mondays. The first class will take place on August 25
 
 This class will cover selected topics from the list below:
 
-1. Introduction: Big Data and Applications in Science and Engineering 
-1. Open Data and Government 
-1. MapReduce and Hadoop: HDFS and Hadoop MapReduce Framework 
-1. MapReduce Patterns and Applications
-1. Cluster Resource Management: YARN, Mesos and OMEGA
+1. Big Data Resource Management: YARN, Mesos and Omega
+1. Hadoop Security
 1. NoSQL and Hadoop: Big Table and HBase 
-1. Hive, Pig and HCatalog 
-1. Hadoop Ecosystem: Distributions and Tools 
-1. In-Memory Databases and Analytical Databases: Greenplum, Teradata 
+1. Emerging Hadoop Processing Engines: TEZ, Spark and Tachyon
+1. SQL on Hadoop: HAWQ, Impala, Hive/TEZ, Hive/Spark
 1. Stream Processing (Storm, Spark Streaming) 
 1. CAP Theorem and Eventual Consistency 
-1. Fehlertoleranz in Verteilten Systemen: Quorum Protokolle, Apache Zookeeper 
-1. Amazon and Big Data: Elastic Map Reduce, SimpleDB, DynamoDB 
-1. Google Infrastructure: Pregel and Dremel 
-1. Google Filesystem Evolution: GFS, Megastore and Spanner 
-1. Google & Big Data: Google App Engine Map Reduce, Big Query, Prediction API 
+1. Fault Tolerance: Quorum Protocols, Apache Zookeeper, Reliable Hadoop Architectures
+1. Amazon and Big Data: Elastic MapReduce, SimpleDB, DynamoDB 
+1. Google Big Data Management: GFS, Megastore, Mesas and Spanner 
+1. Google Analytics: Pregel and Dremel 
 1. Advanced Analytics and Machine Learning (Apache Mahout, MLLib) 
 1. Natural Language Processing 
-1. Visualizations 
+
 
 
 ## Material
