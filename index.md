@@ -47,19 +47,18 @@ The course will be held on Mondays. The first class will take place on August 25
 This class will cover selected topics from the list below:
 
 1. Big Data Resource Management: YARN, Mesos and Omega
-1. Hadoop Security
 1. NoSQL and Hadoop: Big Table and HBase 
 1. Emerging Hadoop Processing Engines: TEZ, Spark and Tachyon
 1. SQL on Hadoop: HAWQ, Impala, Hive/TEZ, Hive/Spark
 1. Stream Processing (Storm, Spark Streaming) 
-1. CAP Theorem and Eventual Consistency 
-1. Fault Tolerance: Quorum Protocols, Apache Zookeeper, Reliable Hadoop Architectures
+1. Data Governance and Security: Kerberos, Gateway Services, Data Lifecycle Management
+1. Fault Tolerance: CAP Theorem, Eventual Consistency, Quorum Protocols, Apache Zookeeper, Reliable Hadoop Architectures
 1. Amazon and Big Data: Elastic MapReduce, SimpleDB, DynamoDB 
 1. Google Big Data Management: GFS, Megastore, Mesas and Spanner 
 1. Google Analytics: Pregel and Dremel 
 1. Advanced Analytics and Machine Learning (Apache Mahout, MLLib) 
+1. Graph Processing Frameworks (Networkx, Graphx, GraphLab, Giraph)
 1. Natural Language Processing 
-
 
 
 ## Material
@@ -177,6 +176,7 @@ Recommendations Item-to-Item Collaborative Filtering, IEEE Computer Society,
 1. Drew Conway, John Myles White, Machine Learning for Hackers, O'Reilly, 2012 
 1. Test, Learn, Adapt: Developing Public Policy with Randomised Controlled Trials: <http://www.pacts.org.uk/docs/pdf-bank/TLA-1906126.pdf>
 1. Jimmy Lin and Chris Dyer, Data-Intensive Text Processing with MapReduce, Morgan & Claypool Publishers, 2010, <http://mapreduce.cc/>
+1. Stanford Large Network Dataset Collection, <http://snap.stanford.edu/data/index.html>
 
 ### 5. Visualization
 1. Robert Kabacoff, R in Action, Manning, 2011
