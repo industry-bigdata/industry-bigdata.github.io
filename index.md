@@ -57,7 +57,7 @@ This class will cover selected topics from the list below:
 1. Google Big Data Management: GFS, Megastore, Mesas and Spanner 
 1. Google Analytics: Pregel and Dremel 
 1. Advanced Analytics and Machine Learning (Apache Mahout, MLLib) 
-1. Graph Processing Frameworks (Networkx, Graphx, GraphLab, Giraph)
+1. Graph Processing Frameworks (Networkx, Graphx, Titan, GraphLab, Giraph)
 1. Natural Language Processing 
 
 
@@ -179,6 +179,9 @@ Recommendations Item-to-Item Collaborative Filtering, IEEE Computer Society,
 1. Test, Learn, Adapt: Developing Public Policy with Randomised Controlled Trials: <http://www.pacts.org.uk/docs/pdf-bank/TLA-1906126.pdf>
 1. Jimmy Lin and Chris Dyer, Data-Intensive Text Processing with MapReduce, Morgan & Claypool Publishers, 2010, <http://mapreduce.cc/>
 1. Stanford Large Network Dataset Collection, <http://snap.stanford.edu/data/index.html>
+1. Sherif Skar, Processing large-scale graph data: A guide to current
+technology,  <http://www.ibm.com/developerworks/library/os-giraph/os-giraph-pdf.pdf>
+1. Graphx, <https://spark.apache.org/graphx/>
 
 ### 5. Visualization
 1. Robert Kabacoff, R in Action, Manning, 2011
