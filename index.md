@@ -65,13 +65,8 @@ This class will cover selected topics from the list below:
 
 Materials for this lecture will be published here.
 
-<!---
+* [Lecture Material](http://fara.cs.uni-potsdam.de/~luckow/fall-2014/)
 
-* [Vorlesung](http://fara.cs.uni-potsdam.de/~luckow/ws2012/)
-
-* [Praktikum](./praktikum.html)
-
--->
 
 ## Reading Material
 
@@ -182,6 +177,7 @@ Recommendations Item-to-Item Collaborative Filtering, IEEE Computer Society,
 1. Sherif Skar, Processing large-scale graph data: A guide to current
 technology,  <http://www.ibm.com/developerworks/library/os-giraph/os-giraph-pdf.pdf>
 1. Graphx, <https://spark.apache.org/graphx/>
+1.  UC Irvine Machine Learning Repository, <http://archive.ics.uci.edu/ml/datasets.html>
 
 ### 5. Visualization
 1. Robert Kabacoff, R in Action, Manning, 2011
