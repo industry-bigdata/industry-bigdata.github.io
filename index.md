@@ -63,7 +63,7 @@ This class will cover selected topics from the list below:
 
 ## Material
 
-Materials for this lecture will be published here.
+Materials for this lecture will be published here:
 
 * [Lecture Material](http://fara.cs.uni-potsdam.de/~luckow/fall-2014/)
 
