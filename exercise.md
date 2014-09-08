@@ -7,7 +7,7 @@ description: ""
 
 
 
-# Infrastruktur
+# Infrastructure
 
 * Linux Cluster hosted at Amazon EC2
 * Ubuntu 12.04
