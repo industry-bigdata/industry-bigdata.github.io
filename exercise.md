@@ -58,7 +58,8 @@ Data/Tools:
 # 3. MapReduce Hello World
 
 Data/Tools:
-* `hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar wordcount`
+
+* MapReduce Application: `hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar wordcount`
 
 1. Run the WordCount example of Hadoop:
 	1. Create two test files containing text and upload them to HDFS!
