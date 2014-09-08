@@ -66,7 +66,7 @@ This class will cover selected topics from the list below:
 Materials for this lecture will be published here:
 
 * [Lecture Material](http://fara.cs.uni-potsdam.de/~luckow/fall-2014/)
-* [In-Class Exercises](./praktikum.html)
+* [In-Class Exercises](./exercise.html)
 
 ## Reading Material
 
