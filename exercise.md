@@ -67,6 +67,6 @@ Use the commands `head`, `cat`, `uniq`, `wc`, `sort`, `find`, `xargs`, `awk` um 
 Run the WordCount example of Hadoop:
 
 1. Create two test files containing text and upload them to HDFS!
-1. Use the MapReduce program WordCount for countint the words!
+1. Use the MapReduce program WordCount for processing these files!
 
 
