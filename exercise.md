@@ -31,6 +31,8 @@ description: ""
 1. Answer the following questions using the command (`hadoop dfsadmin -report`):
     * How big is the Hadoop cluster?
     * How many data nodes are used?
+
+<br/>	
     		
 1. Upload the file `cloud.luckow-hm.de:/data/NASA_access_log_Jul95` to your HDFS home directory! How many blocks does HDFS allocate for this file? On what host are these blocks?
 
