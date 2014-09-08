@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Exercise"
+title: "In-Class Exercises"
 description: ""
 ---
 {% include JB/setup %}
@@ -21,8 +21,9 @@ description: ""
 # 1. Using SSH and Linux
 <br/>
 Data/Tools:
-* Use an SSH client of your choice (e.g. Putty for Windows or SSH in your Linux/Mac OS Terminal)
-* Data: `cloud.luckow-hm.de:/data/NASA_access_log_Jul95`
+
+	* Use an SSH client of your choice (e.g. Putty for Windows or SSH in your Linux/Mac OS Terminal)
+	* Data: `cloud.luckow-hm.de:/data/NASA_access_log_Jul95`
 
 
 1. Please login into the Hadoop cluster on Amazon!
