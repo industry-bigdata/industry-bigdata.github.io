@@ -64,47 +64,9 @@ Data/Tools:
 Data/Tools:
 * `hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar wordcount`
 
-
 1. Run the WordCount example of Hadoop:
 	1. Create two test files containing text and upload them to HDFS!
 	1. Use the MapReduce program WordCount for countint the words!
 
 
 
-<!--
-# 4. MapReduce Data Analytics
-
-<br/> 
-
-
-` hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar wordcount wordcount wordcount-out`
-* Input Daten: `cloud.luckow-hm.de:/data/NASA_access_log_Jul95`
-* [Introduction to Hadoop](http://cdn.oreillystatic.com/en/assets/1/event/85/An%20Introduction%20to%20Hadoop%20Presentation.pdf)
-
-<br/>
-<br/>
-
-1. Nutzen Sie das MapReduce Programmiermodell, um die Statistiken auf Aufgabe 3 
-zu erfolgen. Nutzen Sie das folgende [Python-Skript](src/map_reduce.py) als 
-Template! Testen Sie das Skript:
-
-        cat <input file> | python map_reduce.py map | sort | python map_reduce.py reduce
-
-
-
-1. Machen Sie sich mit dem Hadoop Dateisystem vertraut! Laden Sie die Eingabedateien für den 
-MapReduce Job in das Hadoop Filesystem (auf `cloud.luckow-hm.de`). Legen Sie dazu 
-ein neues Verzeichnis `input` in ihrem HDFS Home Verzeichnis an!
-	
-1. Lassen Sie ihr erstelltes Auswertungsskript mit Hadoop laufen. Beobachten Sie die Ausführungen: Wie viele Map Tasks werden generiert? Wie viel Map Slots belegt die Applikation?
-
-1. Vergleichen Sie die Laufzeiten der lokalen Ausführung mit der Hadoop Variante. Erlären Sie den Unterschied!
-
-<br/> 
-*Lösung*<br/>
-
-[Python-Skript](src/nasa.py)
-
-<br/>
-<br/> 
--->
