@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Practical In-class Exercise"
+title: "Exercise"
 description: ""
-published: false
-
 ---
 {% include JB/setup %}
+
+
 
 # Infrastruktur
 
@@ -47,16 +47,11 @@ Data/Tools:
 <br/> 
 
 1. Use the commands `head`, `cat`, `uniq`, `wc`, `sort`, `find`, `xargs`, `awk` um die NASA Access Logs auszuwerten:
-    1. Which page was called the most?
+
+	1. Which page was called the most?
  	1. What was the most frequent return code?
 	1. How many errors occured? What is the percentage of errors?
 
-<!--
-*Solution*
-
-    cat /data/NASA_access_log_Jul95 | awk  '{print $(NF-1)}'| sort | uniq -c
-	cat /data/NASA_access_log_Jul95 | awk  '{print $(NF-1)}'| sort |  bar_chart.py --sort-keys
--->
 <br/> 
 	
 # 3. MapReduce Hello World
