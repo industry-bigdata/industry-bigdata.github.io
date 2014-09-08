@@ -20,10 +20,10 @@ description: ""
 
 # 1. Using SSH and Linux
 <br/>
-Data/Tools:
+***Data/Tools***:
 
-	* Use an SSH client of your choice (e.g. Putty for Windows or SSH in your Linux/Mac OS Terminal)
-	* Data: `cloud.luckow-hm.de:/data/NASA_access_log_Jul95`
+* Use an SSH client of your choice (e.g. Putty for Windows or SSH in your Linux/Mac OS Terminal)
+* Data: `cloud.luckow-hm.de:/data/NASA_access_log_Jul95`
 
 
 1. Please login into the Hadoop cluster on Amazon!
@@ -40,11 +40,12 @@ Data/Tools:
 
 # 2. Commandline Data Analytics
 <br/>  
+***Data/Tools***:
 
-Data/Tools:
 * <http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html>
 * Commandline data tools <https://github.com/bitly/data_hacks>
 * Data: `cloud.luckow-hm.de:/data/NASA_access_log_Jul95`
+
 <br/> 
 
 1. Use the commands `head`, `cat`, `uniq`, `wc`, `sort`, `find`, `xargs`, `awk` um die NASA Access Logs auszuwerten:
@@ -56,8 +57,8 @@ Data/Tools:
 <br/> 
 	
 # 3. MapReduce Hello World
-
-Data/Tools:
+<br/>
+***Data/Tools***:
 
 * MapReduce Application: `hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar wordcount`
 
