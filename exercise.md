@@ -16,6 +16,7 @@ description: ""
 * Hostname: `cloud.luckow-hm.de (54.83.41.227)`
 * HDFS Web: <http://cloud.luckow-hm.de:50070/>
 
+***Please change your initial password with `passwd`!***
 
 <br/>
 
