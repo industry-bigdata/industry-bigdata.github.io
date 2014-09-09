@@ -10,7 +10,8 @@ description: ""
 # Infrastructure
 
 * Linux Cluster hosted at Amazon EC2
-* Ubuntu 12.04
+* Cloudera Cluster (CDH 5.1) running on Ubuntu 12.04
+* Access via SSH (Windows User can use [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html))
 * Python 2.7.3, Python Documentation: <http://docs.python.org/>
 * Hostname: `cloud.luckow-hm.de (54.83.41.227)`
 * HDFS Web: <http://cloud.luckow-hm.de:50070/>
@@ -48,11 +49,11 @@ description: ""
 
 <br/> 
 
-Use the commands `head`, `cat`, `uniq`, `wc`, `sort`, `find`, `xargs`, `awk` um die NASA Access Logs auszuwerten:
+Use the commands `head`, `cat`, `uniq`, `wc`, `sort`, `find`, `xargs`, `awk` to evaluate the NASA log file:
 
 1. Which page was called the most?
 1. What was the most frequent return code?
-1. How many errors occured? What is the percentage of errors?
+1. How many errors occurred? What is the percentage of errors?
 
 <br/> 
 
