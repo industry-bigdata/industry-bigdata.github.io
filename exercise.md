@@ -37,7 +37,20 @@ description: ""
 
 <br/>
 
-# 2. Commandline Data Analytics
+# 2. MapReduce Hello World
+
+<br/>
+
+***Data/Tools***:
+
+* MapReduce Application: `hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar wordcount`
+
+Run the WordCount example of Hadoop:
+
+1. Create two test files containing text and upload them to HDFS!
+1. Use the MapReduce program WordCount for processing these files!
+
+# 3. Commandline Data Analytics
 
 <br/>  
 
@@ -55,19 +68,4 @@ Use the commands `head`, `cat`, `uniq`, `wc`, `sort`, `find`, `xargs`, `awk` to 
 1. What was the most frequent return code?
 1. How many errors occurred? What is the percentage of errors?
 
-<br/> 
-
-# 3. MapReduce Hello World
-
 <br/>
-
-***Data/Tools***:
-
-* MapReduce Application: `hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar wordcount`
-
-Run the WordCount example of Hadoop:
-
-1. Create two test files containing text and upload them to HDFS!
-1. Use the MapReduce program WordCount for processing these files!
-
-
