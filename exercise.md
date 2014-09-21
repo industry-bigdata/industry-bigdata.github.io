@@ -52,7 +52,6 @@ Run the WordCount example of Hadoop:
 1. Use the MapReduce program WordCount for processing these files!
 
 <br/> 
-<br/>
 
 # 3. Commandline Data Analytics
 
