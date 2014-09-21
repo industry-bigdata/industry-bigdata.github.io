@@ -93,4 +93,4 @@ Run the WordCount example of Hadoop:
 
         hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar terasort <input_directory> <output_directory>
 
-1. How many containers are consumed during which phase of the application: teragen, terasort (map phase, reduce phase)? Please explain! ([Blog post](http://blog.cloudera.com/blog/2014/04/apache-hadoop-yarn-avoiding-6-time-consuming-gotchas/)
+1. How many containers are consumed during which phase of the application: teragen, terasort (map phase, reduce phase)? Please explain! ([Blog post](http://blog.cloudera.com/blog/2014/04/apache-hadoop-yarn-avoiding-6-time-consuming-gotchas/))
