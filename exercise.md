@@ -15,6 +15,7 @@ description: ""
 * Python 2.7.3, Python Documentation: <http://docs.python.org/>
 * Hostname: `cloud.luckow-hm.de (54.83.41.227)`
 * HDFS Web: <http://cloud.luckow-hm.de:50070/>
+* YARN Web: <http://cloud.luckow-hm.de:8088/cluster>
 
 ***Please change your initial password with `passwd`!***
 
