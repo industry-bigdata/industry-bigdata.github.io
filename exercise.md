@@ -68,6 +68,7 @@ Run the WordCount example of Hadoop:
     * Which page was called the most?
     * What was the most frequent return code?
     * How many errors occurred? What is the percentage of errors?
+    
 
 1. Implement a Python version of this Unix Shell script using this [script](src/map_reduce.py) as template!
 
