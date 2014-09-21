@@ -21,7 +21,7 @@
 # functions, which should call emit(), as appropriate.
 #
 # Test your script with
-#  cat input | python wordcount.py map | sort | python wordcount.py reduce
+#  cat input | python map_reduce.py map | sort | python wordcount.py reduce
 
 import sys
 import re
@@ -33,16 +33,15 @@ except ImportError:
 import __builtin__
 
 def map(line):
-    components = line.split()
-    #print components[0]
-    emit(components[0], str(1))
+    try:
+        words = line.split()
+        http_response_code = words[-2]
+        emit(http_response_code, str(1))
+    except:
+        pass
     
 def reduce(key, values):
-    s = 0
-    for i in values:
-        s = s + int(i)    
-    #print("Summe: %d"%s)
-    emit(key, str(s))
+    emit(key, str(sum(__builtin__.map(int,values))))
 
 # Common library code follows:
 
