@@ -50,7 +50,7 @@ Run the WordCount example of Hadoop:
 
 1. Create two test files containing text and upload them to HDFS!
 1. Use the MapReduce program WordCount for processing these files!
-
+<br/> 
 # 3. Commandline Data Analytics
 
 <br/>  
@@ -69,7 +69,7 @@ Run the WordCount example of Hadoop:
     * What was the most frequent return code?
     * How many errors occurred? What is the percentage of errors?
     
-
+<br/> 
 1. Implement a Python version of this Unix Shell script using this [script](src/map_reduce.py) as template!
 
 
