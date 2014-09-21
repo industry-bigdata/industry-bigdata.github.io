@@ -70,11 +70,12 @@ Run the WordCount example of Hadoop:
     * What was the most frequent return code?
     * How many errors occurred? What is the percentage of errors?
     
-<br/> 
-1. Implement a Python version of this Unix Shell script using this [script](src/map_reduce.py) as template!
+<br/>
+ 
+2. Implement a Python version of this Unix Shell script using this [script](src/map_reduce.py) as template!
 
 
-1. Run the Python script inside an Hadoop Streaming job.
+3. Run the Python script inside an Hadoop Streaming job.
 
         hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar -info -info
 
