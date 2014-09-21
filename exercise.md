@@ -16,6 +16,7 @@ description: ""
 * Hostname: `cloud.luckow-hm.de (54.83.41.227)`
 * HDFS Web: <http://cloud.luckow-hm.de:50070/>
 * YARN Web: <http://cloud.luckow-hm.de:8088/cluster>
+* Cloudera Manager: <http://cloud.luckow-hm.de:7180/>
 
 ***Please change your initial password with `passwd`!***
 
