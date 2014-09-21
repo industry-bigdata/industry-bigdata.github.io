@@ -21,7 +21,7 @@
 # functions, which should call emit(), as appropriate.
 #
 # Test your script with
-#  cat input | python wordcount.py map | sort | python wordcount.py reduce
+#  cat input | python map_reduce.py map | sort | python wordcount.py reduce
 
 import sys
 import re
