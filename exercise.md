@@ -79,6 +79,7 @@ Run the WordCount example of Hadoop:
         hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar -info -info
 
 <br/>
+
 # 4. Hadoop Benchmarking
 
 
