@@ -63,10 +63,18 @@ Run the WordCount example of Hadoop:
 
 <br/> 
 
-Use the commands `head`, `cat`, `uniq`, `wc`, `sort`, `find`, `xargs`, `awk` to evaluate the NASA log file:
+1. Use the commands `head`, `cat`, `uniq`, `wc`, `sort`, `find`, `xargs`, `awk` to evaluate the NASA log file:
 
-1. Which page was called the most?
-1. What was the most frequent return code?
-1. How many errors occurred? What is the percentage of errors?
+    * Which page was called the most?
+    * What was the most frequent return code?
+    * How many errors occurred? What is the percentage of errors?
+
+1. Implement a Python version of this Unix Shell script using this [script](src/map_reduce.py) as template!
+
+
+1. Run the Python script inside an Hadoop Streaming job.
+
+    hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar -info -info
 
 <br/>
+
