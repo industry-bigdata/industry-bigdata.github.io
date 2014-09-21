@@ -79,7 +79,7 @@ Run the WordCount example of Hadoop:
 
 3. Run the Python script inside an Hadoop Streaming job.
 
-        hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar -info -info
+        hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar -info 
 
 <br/>
 
