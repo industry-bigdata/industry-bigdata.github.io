@@ -94,3 +94,22 @@ Run the WordCount example of Hadoop:
         hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar terasort <input_directory> <output_directory>
 
 1. How many containers are consumed during which phase of the application: teragen, terasort (map phase, reduce phase)? Please explain! See [blog post](http://blog.cloudera.com/blog/2014/04/apache-hadoop-yarn-avoiding-6-time-consuming-gotchas/).
+
+
+# 5. Spark
+
+<br/>  
+
+***Data/Tools***:
+
+* Spark Programming Guide: <https://spark.apache.org/docs/1.1.0/programming-guide.html> (use Python API recommended)
+* Spark API: <https://spark.apache.org/docs/1.1.0/api/python/index.html>
+
+1. Implement a wordcount using Spark. Make sure that you only allocate 1 core for the interactive Spark shell:
+
+        pyspark --total-executor-cores
+        
+        
+2. Implement the NASA log file analysis using Spark!        
+
+
