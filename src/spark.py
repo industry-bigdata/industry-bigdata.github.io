@@ -1,3 +1,29 @@
+# Terasort
+
+hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar teragen 10000000 teragen
+hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar terasort teragen teraout
+
+
+# Streaming
+
+cat /data/NASA_access_log_Jul95 | awk  '{print $(NF-1)}'| 	sort | uniq -c
+
+
+
+head /data/NASA_access_log_Jul95 |python map_reduce.py map | sort | python map_reduce.py reduce
+
+cat /data/NASA_access_log_Jul95 |python map_reduce.py map | sort | python map_reduce.py reduce
+
+
+hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar -files map_reduce.py -input input-nasa/ -output output-nasa/   -mapper 'map_reduce.py map' -reducer 'map_reduce.py reduce'
+
+
+
+
+
+
+
+##########################################################
 >>> l = [1,2,3,4]
 
 >>> map(lambda x:x,  l)
