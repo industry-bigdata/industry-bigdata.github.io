@@ -95,6 +95,7 @@ Run the WordCount example of Hadoop:
 
 1. How many containers are consumed during which phase of the application: teragen, terasort (map phase, reduce phase)? Please explain! See [blog post](http://blog.cloudera.com/blog/2014/04/apache-hadoop-yarn-avoiding-6-time-consuming-gotchas/).
 
+<br/>  
 
 # 5. Spark
 
