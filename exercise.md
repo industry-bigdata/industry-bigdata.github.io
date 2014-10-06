@@ -108,7 +108,7 @@ Run the WordCount example of Hadoop:
 
 1. Implement a wordcount using Spark. Make sure that you only allocate 1 core for the interactive Spark shell:
 
-        pyspark --total-executor-cores
+        pyspark --total-executor-cores 1
         
         
 2. Implement the NASA log file analysis using Spark!        
