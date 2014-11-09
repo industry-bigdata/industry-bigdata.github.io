@@ -83,21 +83,9 @@ Run the WordCount example of Hadoop:
 
 <br/>
 
-# 4. Hadoop Benchmarking
 
-<br/>  
 
-1. Run the program `Terasort` on 1 GB of data - each record that TeraGen generates is 100 Bytes in size:
-
-        hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar teragen <number_of_records> <output_directory>
-
-        hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar terasort <input_directory> <output_directory>
-
-1. How many containers are consumed during which phase of the application: teragen, terasort (map phase, reduce phase)? Please explain! See [blog post](http://blog.cloudera.com/blog/2014/04/apache-hadoop-yarn-avoiding-6-time-consuming-gotchas/).
-
-<br/>  
-
-# 5. Spark
+# 4. Spark
 
 <br/>  
 
@@ -112,5 +100,53 @@ Run the WordCount example of Hadoop:
         
         
 2. Implement the NASA log file analysis using Spark!        
+
+
+# 5. Hadoop SQL Engines
+
+<br/>  
+
+***Data/Tools***:
+
+* Hive User Guide: <https://cwiki.apache.org/confluence/display/Hive/GettingStarted>
+* Hive ORC: <http://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.0.0.2/ds_Hive/orcfile.html>
+* Hive Parquet: <http://www.cloudera.com/content/cloudera/en/documentation/cdh5/v5-0-0/CDH5-Installation-Guide/cdh5ig_parquet.html>
+
+
+1. Create a Hive table for the NASA Log files! Use either `python` or `awk` to convert the log file to a structured format (CSV) that is manageable by Hive! Use the text format for the table definition!
+        
+2. Run an SQL query that outputs the number of occurrences of each HTTP response code!
+
+3. Based on the initially created table define an ORC and Parquet-based table. Repeat the query!
+
+4. Run the same query with Impala!
+
+
+
+# 4. Hadoop Benchmarking
+
+<br/>  
+
+1. Run the program `Terasort` on 1 GB of data - each record that TeraGen generates is 100 Bytes in size:
+
+        hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar teragen <number_of_records> <output_directory>
+
+        hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar terasort <input_directory> <output_directory>
+
+1. How many containers are consumed during which phase of the application: teragen, terasort (map phase, reduce phase)? Please explain! See [blog post](http://blog.cloudera.com/blog/2014/04/apache-hadoop-yarn-avoiding-6-time-consuming-gotchas/).
+
+<br/>  
+
+
+
+
+
+
+
+
+
+
+
+
 
 

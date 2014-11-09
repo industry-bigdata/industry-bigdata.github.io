@@ -18,11 +18,6 @@ cat /data/NASA_access_log_Jul95 |python map_reduce.py map | sort | python map_re
 hadoop jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar -files map_reduce.py -input input-nasa/ -output output-nasa/   -mapper 'map_reduce.py map' -reducer 'map_reduce.py reduce'
 
 
-
-
-
-
-
 ##########################################################
 >>> l = [1,2,3,4]
 
@@ -43,3 +38,24 @@ text_rdd.flatMap(lambda line: line.split(" ")).map(lambda word: (word, 1)).reduc
 # NASA
 text_rdd = sc.textFile("hdfs://ip-10-186-164-81:8022/user/luckow/input-nasa/")
 text_rdd.filter(lambda x: len(x)>8).map(lambda x: (x.split()[-2],1)).reduceByKey(lambda x,y: x+y).collect()
+
+
+################################################################
+#
+from pyspark.sql import SQLContext, Row
+sqlContext = SQLContext(sc)
+
+
+text_filtered = text_rdd.filter(lambda x: len(x)>8)
+logs = text_filtered.top(20)
+
+cleaned = text_filtered.map(lambda l: (l.split(" ")[0], l.split(" ")[3][1:], l.split(" ")[6], l.split(" ")[-2]))
+
+rows = cleaned.map(lambda l: Row(referer=l[0], ts=l[1]))
+
+schemaLog = sqlContext.inferSchema(rows)
+schemaLog.registerTempTable("row")
+
+
+
+
