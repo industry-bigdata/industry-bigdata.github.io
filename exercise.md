@@ -87,7 +87,6 @@ Run the WordCount example of Hadoop:
 
 # 4. Spark
 <br/>  
-
 ***Data/Tools***:
 
 * Spark Programming Guide: <https://spark.apache.org/docs/1.1.0/programming-guide.html> (use Python API recommended)
@@ -100,10 +99,10 @@ Run the WordCount example of Hadoop:
         
 2. Implement the NASA log file analysis using Spark!        
 
+<br/>  
 
 # 5. Hadoop SQL Engines
 <br/>  
-
 ***Data/Tools***:
 
 * Hive User Guide: <https://cwiki.apache.org/confluence/display/Hive/GettingStarted>
@@ -119,7 +118,7 @@ Run the WordCount example of Hadoop:
 
 4. Run the same query with Impala!
 
-
+<br/>  
 
 # 6. Hadoop Benchmarking
 <br/>  
