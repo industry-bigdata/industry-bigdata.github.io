@@ -123,7 +123,7 @@ Run the WordCount example of Hadoop:
 
 
 
-# 4. Hadoop Benchmarking
+# 6. Hadoop Benchmarking
 
 <br/>  
 
