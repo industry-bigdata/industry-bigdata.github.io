@@ -86,7 +86,6 @@ Run the WordCount example of Hadoop:
 
 
 # 4. Spark
-
 <br/>  
 
 ***Data/Tools***:
@@ -103,7 +102,6 @@ Run the WordCount example of Hadoop:
 
 
 # 5. Hadoop SQL Engines
-
 <br/>  
 
 ***Data/Tools***:
@@ -124,7 +122,6 @@ Run the WordCount example of Hadoop:
 
 
 # 6. Hadoop Benchmarking
-
 <br/>  
 
 1. Run the program `Terasort` on 1 GB of data - each record that TeraGen generates is 100 Bytes in size:
