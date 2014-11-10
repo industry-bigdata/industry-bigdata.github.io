@@ -111,6 +111,8 @@ Run the WordCount example of Hadoop:
 
 
 1. Create a Hive table for the NASA Log files! Use either `python` or `awk` to convert the log file to a structured format (CSV) that is manageable by Hive! Use the text format for the table definition!
+
+        cat /data/NASA_access_log_Jul95 |awk -F' ' '{print "\""$4 $5"\","$(NF-1)","$(NF)}' > nasa.csv
         
 2. Run an SQL query that outputs the number of occurrences of each HTTP response code!
 
