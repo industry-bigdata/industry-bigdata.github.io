@@ -97,7 +97,9 @@ Run the WordCount example of Hadoop:
         pyspark --total-executor-cores 1
         
         
-2. Implement the NASA log file analysis using Spark!        
+2. Implement the NASA log file analysis using Spark!    
+
+[Solution](src/spark.py)
 
 <br/>  
 
