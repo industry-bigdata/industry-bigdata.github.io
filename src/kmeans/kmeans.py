@@ -3,6 +3,7 @@ from numpy import array
 from math import sqrt
 
 # Load and parse the data
+# Upload Sample data: hadoop fs -put /data/kmeans_data.txt .
 data = sc.textFile("kmeans_data.txt")
 parsedData = data.map(lambda line: array([float(x) for x in line.split(' ')]))
 
