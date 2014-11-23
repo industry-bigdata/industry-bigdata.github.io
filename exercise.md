@@ -131,7 +131,7 @@ Run the WordCount example of Hadoop:
 * Spark MLLib KMeans Example: <https://spark.apache.org/docs/1.1.0/mllib-clustering.html>
 
 
-1. Run KMeans on the provided example [dataset](src/kmeans_data.txt)!
+1. Run KMeans on the provided example [dataset](src/kmeans/kmeans_data.txt)!
 
 2. Validate the quality of the model using the sum of the squared error for each point!
 
