@@ -136,6 +136,7 @@ Run the WordCount example of Hadoop:
 2. Validate the quality of the model using the sum of the squared error for each point!
 
 <br/>
+
 # 7. Hadoop Benchmarking
 <br/>  
 
