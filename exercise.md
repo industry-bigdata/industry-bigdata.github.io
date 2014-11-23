@@ -125,7 +125,7 @@ Run the WordCount example of Hadoop:
 <br/>  
 
 # 6. Data Analytics
-
+<br/>
 ***Data/Tools***:
 
 * Spark MLLib KMeans Example: <https://spark.apache.org/docs/1.1.0/mllib-clustering.html>
@@ -135,6 +135,7 @@ Run the WordCount example of Hadoop:
 
 2. Validate the quality of the model using the sum of the squared error for each point!
 
+<br/>
 # 7. Hadoop Benchmarking
 <br/>  
 
