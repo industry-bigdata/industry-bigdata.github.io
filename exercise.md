@@ -122,6 +122,7 @@ Run the WordCount example of Hadoop:
 
 4. Run the same query with Impala!
 
+[Solution](src/sql-hive-solution.txt)
 <br/>  
 
 # 6. Data Analytics
@@ -135,6 +136,7 @@ Run the WordCount example of Hadoop:
 
 2. Validate the quality of the model using the sum of the squared error for each point!
 
+[Solution](src/sql-hive-solution.txt)
 <br/>
 
 # 7. Hadoop Benchmarking
